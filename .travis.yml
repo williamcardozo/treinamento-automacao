@@ -3,8 +3,8 @@ node_js:
   - '8'
 addons:
   sauce_connect:
-    username: ernestos_barbosa
-    access_key: 11cf801b-8551-438d-9a13-188ae6c506ae
+    username: williamcardozo
+    access_key: 05062c60-da0e-4995-8d4d-c9d552593729
 cache:
   directories:
     - node_modules
